@@ -1,4 +1,4 @@
-# Ola Mundo
+# Olá Mundo!
  primeiro repositorio do curso git hub
 
 repositorio criado durante aula
